@@ -2,7 +2,7 @@
 ## Lab 1
 
 ### App Description
-`TODO://` Add app description
+It's a basic flashcard app so far. Only one card. Minimal styling.
 
 ### App Walk-though
 
