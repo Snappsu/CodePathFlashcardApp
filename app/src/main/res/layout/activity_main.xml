@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp">
+
+
+    <TextView
+        android:id="@+id/flashcardQuestion"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:gravity="center_vertical"
+        android:text="@string/flashcard_question_1"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/flashcardAnswer"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:gravity="center|center_vertical"
+        android:text="@string/flashcard_answer_1"
+        android:textColor="@color/colorPrimary"
+        android:textSize="40sp" />
+
+</RelativeLayout>
