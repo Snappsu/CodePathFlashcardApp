@@ -6,9 +6,7 @@
 
 ### App Walk-though
 
-<video controls="controls" width=200>
-<source type="video/mp4"  src="https://raw.githubusercontent.com/Snappsu/CodePathFlashcardApp/master/images/lab1-1.mp4"></source>
-</video><br>
+<img  src="https://raw.githubusercontent.com/Snappsu/CodePathFlashcardApp/master/images/lab1-1.gif"><br>
 
 ## Required
 - [X] Create New Project in Android Studio
