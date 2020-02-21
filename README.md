@@ -2,7 +2,7 @@
 ## Lab 1
 
 ### App Description
-It's a basic flashcard app so far. Only one card. Minimal styling.
+It's a basic flashcard app so far. Only one card. Minimal styling and function.
 
 ### App Walk-though
 
