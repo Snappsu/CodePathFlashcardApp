@@ -6,7 +6,7 @@
 
 ### App Walk-though
 
-<img  src="https://raw.githubusercontent.com/Snappsu/CodePathFlashcardApp/master/images/lab1-1.gif"><br>
+<img  src="https://raw.githubusercontent.com/Snappsu/CodePathFlashcardApp/master/images/lab1-1.gif" width="200px"><br>
 
 ## Required
 - [X] Create New Project in Android Studio
