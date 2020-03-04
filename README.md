@@ -2,12 +2,11 @@
 # Lab 2
 
 ### App Description
-`TODO://` Add app description
+Added a basic activity life cycle with data passing. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://raw.githubusercontent.com/Snappsu/CodePathFlashcardApp/master/images/lab2-1.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
@@ -15,7 +14,7 @@
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
 - [X] The 'Add Card Screen' has a cancel button to take the user back to the main screen
 - [X] User can enter and submit a Question and Answer through the 'Add Card Screen'
-- [ ] User will see the card they just created on the main screen when they press the 'Save Button'
+- [X] User will see the card they just created on the main screen when they press the 'Save Button'
 - [X] Push your progress to GitHub!
 
 ## Optional
