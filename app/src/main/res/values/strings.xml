@@ -2,4 +2,8 @@
     <string name="app_name">flashcardApp2</string>
     <string name="flashcard_question_1">What color is the ocean?</string>
     <string name="flashcard_answer_1">Blue (Probably)</string>
+    <string name="addCardQuestion">Enter the question here...</string>
+    <string name="addCardAnswer">Enter the answer here...</string>
+    <string name="addCardBtnTxt">Add</string>
+    <string name="editCardBtnTxt">Edit</string>
 </resources>
