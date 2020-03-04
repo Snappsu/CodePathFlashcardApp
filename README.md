@@ -8,8 +8,6 @@ Added a basic activity life cycle with data passing.
 
 <img src="https://raw.githubusercontent.com/Snappsu/CodePathFlashcardApp/master/images/lab2-1.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
 - [X] The 'Add Card Screen' has a cancel button to take the user back to the main screen
